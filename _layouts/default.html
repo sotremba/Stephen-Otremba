@@ -22,8 +22,17 @@
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <div class="row banner">
+        <div class="banner-text">
+           <h1 class="responsive-headline">I'm Rayden Chia.</h1>
+           <h3>I'm a <span>student at MIT</span> studying <span>computer science and engineering</span>. 
+              I am passionate about <span>computer and information security</span>.
+           <hr />
+           <ul class="social">
+              <li><a href="https://cyx.sg/me"><i class="fa fa-linkedin"></i></a></li>
+           </ul>
+        </div>
+     </div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
