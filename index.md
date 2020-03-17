@@ -1,6 +1,4 @@
 ---
-title: Stephen Otremba
-description: MIT Computer Science Undergraduate, Class of 2021
 layout: default
 ---
 
