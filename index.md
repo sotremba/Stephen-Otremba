@@ -1,10 +1,12 @@
 ---
+title: Stephen Otremba
+description: MIT Computer Science Undergraduate, Class of 2021
 layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
 
 There should be whitespace between paragraphs.
 
