@@ -4924,7 +4924,7 @@ sup {
 
 .header-icons .icon:active,
 .header-icons .icon:hover {
-	color: #1a222c;
+	color: #000010;
 	background: #fff
 }
 
@@ -4965,7 +4965,7 @@ sup {
 .down .icon:hover,
 .footer a:active,
 .footer a:hover {
-	color: #4b5664
+	color: #000010
 }
 
 #about {
@@ -5040,7 +5040,7 @@ body {
 }
 
 .user-projects li {
-	color: #1a222c;
+	color: #000010;
 	font-size: 1.1rem
 }
 
@@ -5077,9 +5077,9 @@ body {
 	display: inline-block;
 	margin: 10px 0;
 	padding: 5px;
-	color: #1a222c;
+	color: #000010;
 	background-color: transparent;
-	border: 1px solid #1a222c;
+	border: 1px solid #000010;
 	border-radius: 10px;
 	text-align: center;
 	outline: 0;
@@ -5090,14 +5090,14 @@ body {
 
 .project-link:active,
 .project-link:hover {
-	background-color: #54516a;
-	border-color: #54516a;
+	background-color: #000010;
+	border-color: #000010;
 	color: #fff;
 	transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
 .footer {
-	background: #1a222c;
+	background: #000010;
 	padding: 10px 0;
 	margin-top: 100px;
 	text-align: center;
