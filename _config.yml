@@ -1,0 +1,19 @@
+# Site settings
+title: Nyle Sykes
+description: I'm Nyle Sykes. I'm a student at MIT studying computer science and finance. I am passionate about technology and investing.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Nyle Sykes
+user_description: I'm Nyle Sykes. I'm a student at MIT studying computer science and finance. I am passionate about technology and investing.
+user_title: MIT Computer Science and Finance Student
+email: nsykes@mit.edu
+twitter_username: nylesykes
+github_username:  nsykes
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']

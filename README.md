@@ -1,2 +1,3 @@
-# Personal Website for Stephen Otremba
-sotremba@mit.edu
+# Personal Website for Nyle Sykes
+
+nsykes@mit.edu
